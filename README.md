@@ -153,7 +153,6 @@ After running `main.py`, open `powerbi_exports/supplier_risk_powerbi.xlsx` in Po
 ## 👩‍💻 About the Author
 
 **Pavithra V** — Software Engineer & Data Analyst  
-Experienced in ERP analytics, supply chain dashboards, and ML-powered reporting for aerospace/defense at **Data Patterns India Ltd**.
 
 > *"Transforming complex supply chain data into risk intelligence that protects patient access to medicines."*
 
